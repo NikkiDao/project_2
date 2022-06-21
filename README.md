@@ -12,6 +12,8 @@ The second dataset contains fast food restaurant locations across the United Sta
 
 ### Load:
 
+In our final database we were able to combine major cities within the United States along with the respected health concerns that provided a numerical measurement and the amount of fast food chains located in each city. From the completed dataset we were able to evaluate if there is a correlation between fast food restaurants and health concerns based on mortality rate, diabetes, obesity and heart disease. Our topic was chosen because we simply wanted to see if a city with a high volume of fast food chains meant that the population within that city had a higher risk of health concerns given the fact that these restaurants are easily accessible. Alongside, we wanted to see if the opposite occurred in a sense that a lower amount of fast food restaurants meant lower volumes of health concerns.
+
 
 ### Data Sources: Kaggle
 
