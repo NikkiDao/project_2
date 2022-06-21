@@ -1,5 +1,5 @@
-# project_2 : Extract, Transform, and Load 
-# Project Topic: Fast Food Health Concerns in US Big Cities
+# Project_2 : Extract, Transform, and Load 
+# Topic: Fast Food Health Concerns in US Big Cities
 
 ## Extract:
 
@@ -21,5 +21,5 @@ https://www.kaggle.com/datasets/noordeen/big-city-health-data?select=Big_Cities_
 Fast Food Restaurants:
 https://www.kaggle.com/datasets/datafiniti/fast-food-restaurants?select=FastFoodRestaurants.csv
 
-# The Take Home
+## The Take Home
 
