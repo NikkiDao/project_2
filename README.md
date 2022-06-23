@@ -13,11 +13,13 @@ The first dataset we used contains health data in big cities across the United S
 The second dataset contains fast food restaurant locations across the United States. From this set of data, we wanted to see how many fast food restaurants are in each of the cities from our first dataset. To do this, we first dropped the columns which were unnecessary. In order to get the number of restaurants per city, we did a groupby count of each city which resulted in a table ready for a join and further analysis. 
 
 
+
 ### Load:
 
 By utilizing Postgres, we created two tables to insert our data into. Using SQLAlchemy to connect with Postgres, we loaded the data. A join query was then used to combine the data to get the final results. In our final database we were able to combine major cities within the United States along with the respected health concerns that provided a numerical measurement and the amount of fast food chains located in each city. 
 
 From the completed dataset we would be able to evaluate if there is a correlation between fast food restaurants and health concerns based on mortality rate, diabetes, obesity and heart disease. Our topic was chosen because we simply wanted to see if a city with a high volume of fast food chains meant that the population within that city had a higher risk of health concerns given the fact that these restaurants are easily accessible. Alongside, we wanted to see if the opposite occurred in a sense that a lower amount of fast food restaurants meant lower volumes of health concerns. 
+
 
 
 ### Data Sources: Kaggle
