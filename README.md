@@ -1,5 +1,6 @@
 # Project_2 : Extract, Transform, and Load 
 ## Topic: Fast Food Health Concerns in US Big Cities
+Group Members: Nikki Dao, Anthony Garcia, Luis Hernandez, Julie Kuo, Rebecca Watson
 
 ### Extract:
 
